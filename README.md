@@ -1,2 +1,2 @@
 # Codsoft
-My portfolio website using 
+These are just demo portfolio website
